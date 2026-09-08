@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 560" role="img" aria-labelledby="titulo">
+<title id="titulo">Teoria x simulação — n=12</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="750" y="30" text-anchor="middle" font-family="Arial" font-size="22" fill="#222">Teoria x simulação — n=12</text>
+<text x="270" y="73" text-anchor="middle" font-family="Arial" font-size="16" fill="#222">consulta (k=1)</text>
+<line x1="90.00" y1="445.00" x2="450.00" y2="445.00" stroke="#dddddd"/>
+<text x="80.00" y="450.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.0</text>
+<line x1="90.00" y1="373.00" x2="450.00" y2="373.00" stroke="#dddddd"/>
+<text x="80.00" y="378.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.2</text>
+<line x1="90.00" y1="301.00" x2="450.00" y2="301.00" stroke="#dddddd"/>
+<text x="80.00" y="306.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.4</text>
+<line x1="90.00" y1="229.00" x2="450.00" y2="229.00" stroke="#dddddd"/>
+<text x="80.00" y="234.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.6</text>
+<line x1="90.00" y1="157.00" x2="450.00" y2="157.00" stroke="#dddddd"/>
+<text x="80.00" y="162.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.8</text>
+<line x1="90.00" y1="85.00" x2="450.00" y2="85.00" stroke="#dddddd"/>
+<text x="80.00" y="90.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">1.0</text>
+<line x1="90.00" y1="85.00" x2="90.00" y2="445.00" stroke="#eeeeee"/>
+<text x="90.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.50</text>
+<line x1="162.00" y1="85.00" x2="162.00" y2="445.00" stroke="#eeeeee"/>
+<text x="162.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.60</text>
+<line x1="234.00" y1="85.00" x2="234.00" y2="445.00" stroke="#eeeeee"/>
+<text x="234.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.70</text>
+<line x1="306.00" y1="85.00" x2="306.00" y2="445.00" stroke="#eeeeee"/>
+<text x="306.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.80</text>
+<line x1="378.00" y1="85.00" x2="378.00" y2="445.00" stroke="#eeeeee"/>
+<text x="378.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.90</text>
+<line x1="450.00" y1="85.00" x2="450.00" y2="445.00" stroke="#eeeeee"/>
+<text x="450.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">1.00</text>
+<rect x="90.00" y="85.00" width="360.00" height="360.00" fill="none" stroke="#555"/>
+<text x="270" y="488" text-anchor="middle" font-family="Arial" font-size="13" fill="#333">Probabilidade individual p</text>
+<text x="35" y="265" text-anchor="middle" transform="rotate(-90 35,265)" font-family="Arial" font-size="13" fill="#333">Disponibilidade</text>
+<polyline points="90.00,85.09 234.00,85.00 306.00,85.00 378.00,85.00 414.00,85.00 442.80,85.00" fill="none" stroke="#1f77b4" stroke-width="2.2"/>
+<polyline points="90.00,85.10 234.00,85.00 306.00,85.00 378.00,85.00 414.00,85.00 442.80,85.00" fill="none" stroke="#d62728" stroke-width="2.2" stroke-dasharray="7 5"/>
+<circle cx="90.00" cy="85.10" r="3.5" fill="#d62728"/>
+<circle cx="234.00" cy="85.00" r="3.5" fill="#d62728"/>
+<circle cx="306.00" cy="85.00" r="3.5" fill="#d62728"/>
+<circle cx="378.00" cy="85.00" r="3.5" fill="#d62728"/>
+<circle cx="414.00" cy="85.00" r="3.5" fill="#d62728"/>
+<circle cx="442.80" cy="85.00" r="3.5" fill="#d62728"/>
+<text x="735" y="73" text-anchor="middle" font-family="Arial" font-size="16" fill="#222">maioria (k=ceil(n/2))</text>
+<line x1="555.00" y1="445.00" x2="915.00" y2="445.00" stroke="#dddddd"/>
+<text x="545.00" y="450.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.0</text>
+<line x1="555.00" y1="373.00" x2="915.00" y2="373.00" stroke="#dddddd"/>
+<text x="545.00" y="378.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.2</text>
+<line x1="555.00" y1="301.00" x2="915.00" y2="301.00" stroke="#dddddd"/>
+<text x="545.00" y="306.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.4</text>
+<line x1="555.00" y1="229.00" x2="915.00" y2="229.00" stroke="#dddddd"/>
+<text x="545.00" y="234.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.6</text>
+<line x1="555.00" y1="157.00" x2="915.00" y2="157.00" stroke="#dddddd"/>
+<text x="545.00" y="162.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.8</text>
+<line x1="555.00" y1="85.00" x2="915.00" y2="85.00" stroke="#dddddd"/>
+<text x="545.00" y="90.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">1.0</text>
+<line x1="555.00" y1="85.00" x2="555.00" y2="445.00" stroke="#eeeeee"/>
+<text x="555.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.50</text>
+<line x1="627.00" y1="85.00" x2="627.00" y2="445.00" stroke="#eeeeee"/>
+<text x="627.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.60</text>
+<line x1="699.00" y1="85.00" x2="699.00" y2="445.00" stroke="#eeeeee"/>
+<text x="699.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.70</text>
+<line x1="771.00" y1="85.00" x2="771.00" y2="445.00" stroke="#eeeeee"/>
+<text x="771.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.80</text>
+<line x1="843.00" y1="85.00" x2="843.00" y2="445.00" stroke="#eeeeee"/>
+<text x="843.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.90</text>
+<line x1="915.00" y1="85.00" x2="915.00" y2="445.00" stroke="#eeeeee"/>
+<text x="915.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">1.00</text>
+<rect x="555.00" y="85.00" width="360.00" height="360.00" fill="none" stroke="#555"/>
+<text x="735" y="488" text-anchor="middle" font-family="Arial" font-size="13" fill="#333">Probabilidade individual p</text>
+<text x="500" y="265" text-anchor="middle" transform="rotate(-90 500,265)" font-family="Arial" font-size="13" fill="#333">Disponibilidade</text>
+<polyline points="555.00,224.39 699.00,98.90 771.00,86.41 843.00,85.02 879.00,85.00 907.80,85.00" fill="none" stroke="#1f77b4" stroke-width="2.2"/>
+<polyline points="555.00,224.51 699.00,98.86 771.00,86.36 843.00,85.01 879.00,85.00 907.80,85.00" fill="none" stroke="#d62728" stroke-width="2.2" stroke-dasharray="7 5"/>
+<circle cx="555.00" cy="224.51" r="3.5" fill="#d62728"/>
+<circle cx="699.00" cy="98.86" r="3.5" fill="#d62728"/>
+<circle cx="771.00" cy="86.36" r="3.5" fill="#d62728"/>
+<circle cx="843.00" cy="85.01" r="3.5" fill="#d62728"/>
+<circle cx="879.00" cy="85.00" r="3.5" fill="#d62728"/>
+<circle cx="907.80" cy="85.00" r="3.5" fill="#d62728"/>
+<text x="1200" y="73" text-anchor="middle" font-family="Arial" font-size="16" fill="#222">atualizacao (k=n)</text>
+<line x1="1020.00" y1="445.00" x2="1380.00" y2="445.00" stroke="#dddddd"/>
+<text x="1010.00" y="450.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.0</text>
+<line x1="1020.00" y1="373.00" x2="1380.00" y2="373.00" stroke="#dddddd"/>
+<text x="1010.00" y="378.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.2</text>
+<line x1="1020.00" y1="301.00" x2="1380.00" y2="301.00" stroke="#dddddd"/>
+<text x="1010.00" y="306.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.4</text>
+<line x1="1020.00" y1="229.00" x2="1380.00" y2="229.00" stroke="#dddddd"/>
+<text x="1010.00" y="234.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.6</text>
+<line x1="1020.00" y1="157.00" x2="1380.00" y2="157.00" stroke="#dddddd"/>
+<text x="1010.00" y="162.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">0.8</text>
+<line x1="1020.00" y1="85.00" x2="1380.00" y2="85.00" stroke="#dddddd"/>
+<text x="1010.00" y="90.00" text-anchor="end" font-family="Arial" font-size="12" fill="#444">1.0</text>
+<line x1="1020.00" y1="85.00" x2="1020.00" y2="445.00" stroke="#eeeeee"/>
+<text x="1020.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.50</text>
+<line x1="1092.00" y1="85.00" x2="1092.00" y2="445.00" stroke="#eeeeee"/>
+<text x="1092.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.60</text>
+<line x1="1164.00" y1="85.00" x2="1164.00" y2="445.00" stroke="#eeeeee"/>
+<text x="1164.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.70</text>
+<line x1="1236.00" y1="85.00" x2="1236.00" y2="445.00" stroke="#eeeeee"/>
+<text x="1236.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.80</text>
+<line x1="1308.00" y1="85.00" x2="1308.00" y2="445.00" stroke="#eeeeee"/>
+<text x="1308.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">0.90</text>
+<line x1="1380.00" y1="85.00" x2="1380.00" y2="445.00" stroke="#eeeeee"/>
+<text x="1380.00" y="465.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#444">1.00</text>
+<rect x="1020.00" y="85.00" width="360.00" height="360.00" fill="none" stroke="#555"/>
+<text x="1200" y="488" text-anchor="middle" font-family="Arial" font-size="13" fill="#333">Probabilidade individual p</text>
+<text x="965" y="265" text-anchor="middle" transform="rotate(-90 965,265)" font-family="Arial" font-size="13" fill="#333">Disponibilidade</text>
+<polyline points="1020.00,444.91 1164.00,440.02 1236.00,420.26 1308.00,343.33 1344.00,250.47 1372.80,125.90" fill="none" stroke="#1f77b4" stroke-width="2.2"/>
+<polyline points="1020.00,444.88 1164.00,440.14 1236.00,419.99 1308.00,343.19 1344.00,250.73 1372.80,125.70" fill="none" stroke="#d62728" stroke-width="2.2" stroke-dasharray="7 5"/>
+<circle cx="1020.00" cy="444.88" r="3.5" fill="#d62728"/>
+<circle cx="1164.00" cy="440.14" r="3.5" fill="#d62728"/>
+<circle cx="1236.00" cy="419.99" r="3.5" fill="#d62728"/>
+<circle cx="1308.00" cy="343.19" r="3.5" fill="#d62728"/>
+<circle cx="1344.00" cy="250.73" r="3.5" fill="#d62728"/>
+<circle cx="1372.80" cy="125.70" r="3.5" fill="#d62728"/>
+<line x1="1190" y1="105" x2="1215" y2="105" stroke="#1f77b4" stroke-width="3"/>
+<text x="1225" y="110" font-family="Arial" font-size="13" fill="#333">Analítica</text>
+<line x1="1190" y1="135" x2="1215" y2="135" stroke="#d62728" stroke-width="3" stroke-dasharray="7 5"/>
+<text x="1225" y="140" font-family="Arial" font-size="13" fill="#333">Experimental</text>
+</svg>
